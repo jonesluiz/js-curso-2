@@ -36,13 +36,13 @@ console.log(nomes[0]);
 5) Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento.
 
 ```js
-nomes = ['JavaScript', 'Python', 'Go'];
+let nomes = ['JavaScript', 'Python', 'Go'];
 console.log(nomes[1]);
 ```
 
 6) Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
 
 ```js
-nomes = ['JavaScript', 'Python', 'Go'];
+let nomes = ['JavaScript', 'Python', 'Go'];
 console.log(nomes[2]);
 ```
